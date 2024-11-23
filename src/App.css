@@ -389,9 +389,23 @@
   }
   
   .sidebar.active .sidebar-info_more {
+    opacity: 0;
+    visibility: visible;
+    height: auto;
+  }
+  /* .sidebar-info_more {
+    opacity: 0;
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+    transition: var(--transition-2);
+  }
+  
+  .sidebar.active .sidebar-info_more {
     opacity: 1;
     visibility: visible;
-  }
+    height: auto;
+  } */
   
   .contacts-list {
     display: grid;
