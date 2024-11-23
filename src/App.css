@@ -1285,8 +1285,8 @@
   
     .info_more-btn ion-icon { display: none; }
   
-    .separator { margin: 32px 0; }
-    .separator2 { margin: 32px 5px; }
+    .separator { margin: 32px 5px; }
+    /* .separator2 { margin: 32px 5px; } */ 
 
   
     .contacts-list { gap: 20px; }

@@ -105,7 +105,8 @@ const Sidebar = () => {
       </div>
       {/* contacts info */}
       <div className="sidebar-info_more">
-        <hr className="separator2" />
+        <div className="separator"></div>
+        {/* <hr className="separator2" /> */}
         <ul className="contacts-list">
           <li className="contact-item">
             <div className="icon-box">
