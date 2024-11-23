@@ -389,7 +389,8 @@
   }
   
   .sidebar.active .sidebar-info_more {
-    opacity: 0;
+    margin-top: 20px;
+    opacity: 1;
     visibility: visible;
     height: auto;
   }
