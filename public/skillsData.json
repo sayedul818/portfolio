@@ -1,0 +1,43 @@
+[
+    {
+      "title": "C++",
+      "value": 76
+    },
+    {
+      "title": "Java",
+      "value": 84
+    },
+    {
+        "title": "Html",
+        "value": 98
+    },
+    {
+        "title": "Css",
+        "value": 75
+    },
+    {
+      "title": "JavaScript",
+      "value": 88
+    },
+    {
+      "title": "React",
+      "value": 80
+    },
+    {
+      "title": "Node",
+      "value": 74
+    },
+    {
+      "title": "MongoDB",
+      "value": 79
+    },
+    {
+        "title": "Web Design",
+        "value": 82
+    },
+    {
+        "title": "WordPress",
+        "value": 85
+    }
+  ]
+  
