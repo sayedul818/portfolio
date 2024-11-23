@@ -1,4 +1,4 @@
-import Img from "../../public/image/title.png";
+import Img from "../../public/image/title1.jpg";
 import { GiClawSlashes } from "react-icons/gi";
 import { GiMailbox } from "react-icons/gi";
 import { GiPhone } from "react-icons/gi";
