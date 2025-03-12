@@ -40,11 +40,10 @@ const About = () => {
       </header>
       <section className='about-text'>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, deserunt perspiciatis, quia earum et molestiae dolorem officiis ea pariatur delectus quam aspernatur, explicabo sapiente? Repellendus saepe sed beatae minus neque.
+        I am Sayedul Islam Sayed, a skilled MERN stack developer with a strong passion for building modern web applications. My expertise lies in React, where I excel in crafting dynamic, high-performance, and user-friendly interfaces.        
         </p>
-
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis laborum, modi placeat iusto exercitationem pariatur porro ex ea fuga dolores officia temporibus voluptatum ullam eius incidunt cum possimus aliquid quisquam.
+        With a deep understanding of front-end development, state management, and component-based architecture, I consistently deliver seamless and scalable solutions. My ability to integrate React with backend technologies makes me a valuable asset in full-stack development. Whether working on complex applications or optimizing UI/UX, I bring creativity and efficiency to every project. 🚀
         </p>
       </section>
 
